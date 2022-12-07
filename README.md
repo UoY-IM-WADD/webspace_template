@@ -1,2 +1,2 @@
-# webspace_template
-Contains the files you need to restrict access to your webspace to module members
+# Webspace Template
+TODO: Create folder containing htaccess and instructions for use
